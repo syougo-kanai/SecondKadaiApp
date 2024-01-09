@@ -13,6 +13,7 @@
 		79677BAF2B4BC84B00347606 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79677BAD2B4BC84B00347606 /* Main.storyboard */; };
 		79677BB12B4BC84C00347606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79677BB02B4BC84C00347606 /* Assets.xcassets */; };
 		79677BB42B4BC84C00347606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79677BB22B4BC84C00347606 /* LaunchScreen.storyboard */; };
+		79677BBC2B4BCE6800347606 /* meetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79677BBB2B4BCE6800347606 /* meetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		79677BB02B4BC84C00347606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79677BB32B4BC84C00347606 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79677BB52B4BC84C00347606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79677BBB2B4BCE6800347606 /* meetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = meetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				79677BA72B4BC84B00347606 /* AppDelegate.swift */,
 				79677BA92B4BC84B00347606 /* SceneDelegate.swift */,
 				79677BAB2B4BC84B00347606 /* ViewController.swift */,
+				79677BBB2B4BCE6800347606 /* meetViewController.swift */,
 				79677BAD2B4BC84B00347606 /* Main.storyboard */,
 				79677BB02B4BC84C00347606 /* Assets.xcassets */,
 				79677BB22B4BC84C00347606 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79677BAC2B4BC84B00347606 /* ViewController.swift in Sources */,
+				79677BBC2B4BCE6800347606 /* meetViewController.swift in Sources */,
 				79677BA82B4BC84B00347606 /* AppDelegate.swift in Sources */,
 				79677BAA2B4BC84B00347606 /* SceneDelegate.swift in Sources */,
 			);
